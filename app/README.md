@@ -1,4 +1,6 @@
-# TP NOTE B3 CLERMONT FERRAND : Application de découverte de pays
+# TP NOTE B3 CLERMONT FERRAND 
+
+## Application de découverte de pays
 
 Cette application Android permet aux utilisateurs de découvrir des informations intéressantes sur différents pays du monde. L'application offre une interface conviviale où les utilisateurs peuvent parcourir une liste de pays, voir des détails sur chaque pays sélectionné, et même ajouter de nouveaux pays à la liste.
 
