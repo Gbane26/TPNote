@@ -1,26 +1,26 @@
-# TP NOTE B3 CLERMONT FERRAND
+# TP NOTE B3 CLERMONT FERRAND : Application de découverte de pays
 
-Description brève du projet.
+Cette application Android permet aux utilisateurs de découvrir des informations intéressantes sur différents pays du monde. L'application offre une interface conviviale où les utilisateurs peuvent parcourir une liste de pays, voir des détails sur chaque pays sélectionné, et même ajouter de nouveaux pays à la liste.
 
-## Installation
+## Fonctionnalités principales
 
-1. Clonez le dépôt : `git clone https://github.com/Gbane26/TPNote.git`
-2. Allez dans le répertoire cloné : `cd TPNote`
-3. Instructions supplémentaires d'installation...
+- Affichage d'une liste de pays avec leurs noms, capitales et superficies.
+- Affichage de détails détaillés sur chaque pays, y compris une description et une image représentative.
+- Possibilité d'ajouter de nouveaux pays à la liste.
+- Sauvegarde automatique de la liste des pays lors de la rotation de l'écran ou lors de la fermeture de l'application.
 
-## Utilisation
+## Technologies utilisées
 
-Instructions sur la façon d'utiliser votre projet.
+- Langage de programmation : Java
+- Bibliothèques Android utilisées : RecyclerView, Intent, Bundle, Serializable, etc.
 
 ## Captures d'écran
 
-![Capture d'écran 1](chemin/vers/capture1.png)
-![Capture d'écran 2](chemin/vers/capture2.png)
+(Insère ici des captures d'écran de l'application en action)
 
-## Contribution
+## Instructions d'utilisation
 
-Les contributions sont les bienvenues. Veuillez ouvrir une issue pour discuter de ce que vous aimeriez changer.
+1. Téléchargez le code source de l'application.
+2. Importez le projet dans Android Studio.
+3. Compilez et exécutez l'application sur un émulateur Android ou un appareil physique.
 
-## Licence
-
-[MIT Licence](LICENSE)
