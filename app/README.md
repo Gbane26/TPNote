@@ -7,16 +7,13 @@ Cette application Android permet aux utilisateurs de découvrir des informations
 - Affichage d'une liste de pays avec leurs noms, capitales et superficies.
 - Affichage de détails détaillés sur chaque pays, y compris une description et une image représentative.
 - Possibilité d'ajouter de nouveaux pays à la liste.
-- Sauvegarde automatique de la liste des pays lors de la rotation de l'écran ou lors de la fermeture de l'application.
+- Sauvegarde automatique de la liste des pays lors de la rotation de l'écran.
 
 ## Technologies utilisées
 
 - Langage de programmation : Java
 - Bibliothèques Android utilisées : RecyclerView, Intent, Bundle, Serializable, etc.
 
-## Captures d'écran
-
-(Insère ici des captures d'écran de l'application en action)
 
 ## Instructions d'utilisation
 
